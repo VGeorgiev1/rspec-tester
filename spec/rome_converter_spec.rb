@@ -1,4 +1,4 @@
-require_relative '../lib/rome_converter'
+require_relative '../lib/rome_convertor.rb'
 
 RSpec.describe RomeConverter do
 	convertor = RomeConverter.new
